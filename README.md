@@ -1,4 +1,4 @@
-# Bresenham's line algorithm in MIPS assembly
+# Bresenham's line algorithm in MARS MIPS assembly
 ## Prerequisites
 The project focuses on drawing a straight line between 2 points , while using a Bresenham's algorithm: https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm.<br /><br />
 The code shown in bresenham.asm has been compiled using MARS MIPS simulator, which can be downloaded here: https://courses.missouristate.edu/kenvollmar/mars/download.htm. <br /><br />
